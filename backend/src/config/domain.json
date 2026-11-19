@@ -22,6 +22,13 @@
   "run_table": "transition_runs",
   "note_table": "editorial_plans",
   "eyebrow": "MARGIN NOTES / 43",
+  "drill": {
+    "title": "编辑演练",
+    "memory_limit_mb": 192,
+    "batch_limit": 5000,
+    "continuation_limit": 50000,
+    "principle": "从冻结会话取全部相邻章节，榜外接续同样覆盖；路线可重复走同一接续，每一步都有实测依据；先让路线数最少，再让总步数最少，闭环算一条。"
+  },
   "headline": "读者翻过这一页，接着去了哪里。",
   "subtitle": "杉页数字出版组 · 会话内章节接续研究",
   "fields": [
